@@ -1,0 +1,17 @@
+{
+  "name": "entrega5-pugengine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon --inspect ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Cristian Apablaza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pug": "^3.0.2"
+  },
+  "description": "Entrega N°5 del curso Backend de Coderhouse, usando pugengine."
+}

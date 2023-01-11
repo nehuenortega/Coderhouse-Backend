@@ -1,0 +1,15 @@
+{
+  "name": "entrega_4",
+  "version": "1.0.0",
+  "description": "Entrega N°4 del curso Backend de Coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cristian Apablaza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
