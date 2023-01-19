@@ -36,3 +36,5 @@
 #### [🔗 Entrega 18 - Tercera entrega del proyecto final]
 
 #### [🔗 Entrega 19 - Dividir en capas nuestro proyecto]
+
+#### [🔗 Entrega 20 - Mejorar la arquitectura de nuetra API]
