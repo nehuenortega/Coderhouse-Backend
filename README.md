@@ -1,7 +1,7 @@
 # Coderhouse-Backend
-#### [🔗 Entrega 1 - Repaso de clases(POO) en JS]
+#### [🔗 Entrega 1 - Repaso de clases(POO) en JS] (https://github.com/nehuenortega/Coderhouse-Backend/tree/main/Entrega_01)
 
-#### [🔗 Entrega 2 - Manejo de archivos asincrónicamente con Node]
+#### [🔗 Entrega 2 - Manejo de archivos asincrónicamente con Node] (https://github.com/nehuenortega/Coderhouse-Backend/tree/main/Entrega_02)
 
 #### [🔗 Entrega 3 - Servidor con Express]
 
@@ -38,3 +38,5 @@
 #### [🔗 Entrega 19 - Dividir en capas nuestro proyecto]
 
 #### [🔗 Entrega 20 - Mejorar la arquitectura de nuetra API]
+
+#### [🔗 Entrega 21 - Testeamos nuestra API]
