@@ -45,3 +45,5 @@
 #### [🔗 Entrega 22 - Reformar para usar GraphQL](https://github.com/nehuenortega/Coderhouse-Backend/tree/main/Entrega_22)
 
 #### [🔗 Entrega 23 - Reformar para usar otro Framework (Koa)](https://github.com/nehuenortega/Coderhouse-Backend/tree/main/Entrega_23)
+
+#### [🔗 Entrega 24 - Server en Deno](https://github.com/nehuenortega/Coderhouse-Backend/tree/main/Entrega_24)
