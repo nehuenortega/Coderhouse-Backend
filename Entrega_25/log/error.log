@@ -1,0 +1,8 @@
+[2023-02-24T13:44:25.171] [ERROR] default - MongooseError: Operation `usuarios.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\Yo\Workspace_VSCode\Ecommerce_ex\Entrega-25\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-24T13:45:39.236] [ERROR] default - MongooseError: Operation `usuarios.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\Yo\Workspace_VSCode\Ecommerce_ex\Entrega-25\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
