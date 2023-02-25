@@ -34,4 +34,4 @@ En `/api/usuario/login`
 
 En `/api/usuario/logout`
 
-<img src="../Entrega-25/imagesReadme/logoutView.png" alt="Logout view"/>
+<img src="../Entrega_25/imagesReadme/logoutView.png" alt="Logout view"/>
